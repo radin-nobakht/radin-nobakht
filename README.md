@@ -43,7 +43,7 @@ I'm currently working with:
 ### 🗄️ Databases
 
 <p>
-   <img src="[[[https://skillicons.dev/icons?i=sqlite](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-sql-server-light.svg)](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-sql-server-light.svg)"](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/microsoft-sql-server-light.png) />
+   <img src="[[[[https://skillicons.dev/icons?i=sqlite](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-sql-server-light.svg)](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-sql-server-light.svg)"](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/microsoft-sql-server-light.png) ](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/microsoft-sql-server-light.webp)/>
   <img src="https://skillicons.dev/icons?i=sqlite" />
   
 </p>
