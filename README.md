@@ -12,53 +12,61 @@ I enjoy building real-world projects, improving my code, and learning how to des
 
 🏫 **SchoolHub** — A school management system built with ASP.NET Core MVC.
 
-I'm currently working on:
+I'm currently working with:
 
-* Building features with ASP.NET Core MVC
-* Designing services and application logic
-* Working with Entity Framework Core and LINQ
-* Writing automated tests with xUnit
-* Improving architecture and code quality
+* ASP.NET Core MVC
+* Entity Framework Core
+* SQL Server
+* LINQ
+* SignalR
+* xUnit & TDD
+* Clean Code & Software Architecture
 
 ---
 
-## 🧰 Technologies & Tools
+# 🛠️ Technologies & Tools
 
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,python,sql" />
-</p>
-
-### 🌐 Backend & Frameworks
+### 👨‍💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet" />
+  <img src="https://skillicons.dev/icons?i=cs,java,python" />
 </p>
 
-`ASP.NET Core` · `ASP.NET Core MVC` · `Entity Framework Core` · `LINQ`
+### ⚙️ Backend & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,spring" />
+</p>
+
+`ASP.NET Core` · `ASP.NET Core MVC` · `Entity Framework Core` · `LINQ` · `SignalR`
 
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlserver,sqlite" />
+  <img src="https://skillicons.dev/icons?i=sqlserver,sqlite,mysql" />
 </p>
+
+`SQL Server` · `SQLite` · `MySQL`
+
+### 🌐 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
+</p>
+
+`HTML` · `CSS` · `Bootstrap` · `JavaScript`
 
 ### 🧪 Testing
 
 `xUnit` · `TDD` · `Unit Testing`
 
-### 🛠️ Tools & Development
+### 🔧 Tools & Workflow
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" />
 </p>
 
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
-</p>
+`Git` · `GitHub` · `Visual Studio` · `VS Code`
 
 ---
 
@@ -68,18 +76,19 @@ I'm currently working on:
 
 A school management system built with **ASP.NET Core MVC**.
 
-The project includes functionality for managing:
+The project includes:
 
-* 🏫 Schools
-* 👨‍🏫 Teachers
-* 👨‍🎓 Students
+* 🏫 School management
+* 👨‍🏫 Teacher management
+* 👨‍🎓 Student management
 * 📚 Classes & Subjects
 * 📊 Scores & Averages
-* 👤 User Roles & Permissions
+* 👤 Authentication & Authorization
+* ⚡ Real-time features with SignalR
 
 **Tech Stack**
 
-`C#` `ASP.NET Core MVC` `Entity Framework Core` `SQL Server` `LINQ` `Bootstrap`
+`C#` `ASP.NET Core MVC` `Entity Framework Core` `SQL Server` `LINQ` `SignalR` `Bootstrap`
 
 ---
 
@@ -88,6 +97,7 @@ The project includes functionality for managing:
 * Advanced ASP.NET Core
 * Entity Framework Core
 * LINQ & Query Optimization
+* SignalR
 * TDD & Automated Testing
 * Software Architecture
 * Design Patterns
