@@ -35,7 +35,7 @@ I'm currently working with:
 ### ⚙️ Backend & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,spring" />
+  <img src="https://skillicons.dev/icons?i=dotnet" />
 </p>
 
 `ASP.NET Core` · `ASP.NET Core MVC` · `Entity Framework Core` · `LINQ` · `SignalR`
@@ -43,7 +43,7 @@ I'm currently working with:
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlserver,sqlite,mysql" />
+  <img src="https://skillicons.dev/icons?i=microsoftsqlserver,sqlite" />
 </p>
 
 `SQL Server` · `SQLite` · `MySQL`
