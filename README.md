@@ -29,7 +29,7 @@ I'm currently working with:
 ### 👨‍💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,java,python" />
+  <img src="https://skillicons.dev/icons?i=cs,python" />
 </p>
 
 ### ⚙️ Backend & Frameworks
@@ -43,7 +43,9 @@ I'm currently working with:
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=microsoftsqlserver,sqlite" />
+   <img src="[https://skillicons.dev/icons?i=sqlite](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-sql-server-light.svg)" />
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+  
 </p>
 
 `SQL Server` · `SQLite` · `MySQL`
@@ -51,7 +53,7 @@ I'm currently working with:
 ### 🌐 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery" />
 </p>
 
 `HTML` · `CSS` · `Bootstrap` · `JavaScript`
@@ -63,7 +65,8 @@ I'm currently working with:
 ### 🔧 Tools & Workflow
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" />
+  
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,pycharm,windows" />
 </p>
 
 `Git` · `GitHub` · `Visual Studio` · `VS Code`
